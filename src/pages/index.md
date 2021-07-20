@@ -31,6 +31,7 @@ sections:
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
+        title: ' Make better decisions with humanity'
       - title: 2 Tracks
         title_align: left
         content: "We believe Business associates; employees are the extension of our organization hence we should always be gratitude and challenged by helping them to improve.\_ \n\n\n\n"
