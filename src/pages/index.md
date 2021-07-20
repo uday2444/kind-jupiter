@@ -42,7 +42,10 @@ sections:
         image_width: twenty-five
       - title: 20+ Speakers
         title_align: left
-        content: Best in the field speakers and instructors.
+        content: >
+          We work, grow and align the whole process towards a common purpose
+          which will be a starting point for generating useful value to customer
+          and society.
         content_align: left
         image: images/20-speakers.svg
         image_alt: Section item 3 icon
