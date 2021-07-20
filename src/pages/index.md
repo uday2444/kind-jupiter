@@ -5,7 +5,7 @@ sections:
     title: Define. Excel. Accelerate.
     subtitle: Facility Mangement Service
     content: |
-      ****
+      ***
     actions:
       - label: Know More!
         url: /about
