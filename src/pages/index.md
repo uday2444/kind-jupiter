@@ -32,8 +32,7 @@ sections:
         image_position: left
         image_width: twenty-five
         title: ' Make Better Decisions With Humanity'
-      - title: 2 Tracks
-        title_align: left
+      - title_align: left
         content: "We believe Business associates; employees are the extension of our organization hence we should always be gratitude and challenged by helping them to improve.\_ \n\n\n\n"
         content_align: left
         image: images/2-tracks.svg
