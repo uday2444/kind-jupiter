@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: Define. Excel. Accelerate.
     subtitle: Facility Mangement Service
-    content: '**April 14 - 16, 2021**'
+    content: |
+      ****
     actions:
       - label: Get Your Ticket Today!
         url: /about
