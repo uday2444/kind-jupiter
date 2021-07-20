@@ -7,7 +7,7 @@ sections:
     content: |
       ****
     actions:
-      - label: Get Your Ticket Today!
+      - label: Know More!
         url: /about
         style: primary
     align: center
