@@ -39,6 +39,7 @@ sections:
         image_alt: Section item 2 icon
         image_position: left
         image_width: twenty-five
+        title: What we believe
       - title: 20+ Speakers
         title_align: left
         content: >
