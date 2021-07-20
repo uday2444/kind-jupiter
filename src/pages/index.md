@@ -40,8 +40,7 @@ sections:
         image_position: left
         image_width: twenty-five
         title: What We Believe
-      - title: 20+ Speakers
-        title_align: left
+      - title_align: left
         content: >
           We work, grow and align the whole process towards a common purpose
           which will be a starting point for generating useful value to customer
