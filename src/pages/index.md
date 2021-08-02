@@ -60,7 +60,7 @@ sections:
   - type: features_section
     title: What you’ll experience
     features:
-      - content: "```\nTwo heads are better than one when it comes to good decision making\r.\n\nFor thoroughly understanding the situation in-depth and superficial. \n\n```\n"
+      - content: "Two heads are better than one when it comes to good decision making\r.\n\nFor thoroughly understanding the situation in-depth and superficial.\n"
         align: center
     feature_padding_vert: medium
     align: center
